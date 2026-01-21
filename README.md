@@ -16,3 +16,9 @@ This repository is created to practice Git and GitHub workflows like a real soft
 ```bash
 python app/main.py
 
+## Future Improvements
+- Add Docker support
+- Add logging
+- Improve test coverage
+
+
